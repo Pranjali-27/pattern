@@ -16,3 +16,15 @@ System.out.println();
 }
 }
 }
+output:
+
+C:\Users\AT SYSTEMS\SkyDrive\Documents\patterns>javac pattern_7.java
+
+C:\Users\AT SYSTEMS\SkyDrive\Documents\patterns>java pattern_7.java
+54321
+5432
+543
+54
+5
+
+C:\Users\AT SYSTEMS\SkyDrive\Documents\patterns>
